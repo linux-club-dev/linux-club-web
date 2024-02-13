@@ -25,8 +25,8 @@ const Giscus = () => {
     script.setAttribute('data-repo', repo)
     script.setAttribute('data-repo-id', repositoryId)
     script.setAttribute('data-category-id', categoryId)
-    script.setAttribute('data-theme', commentsTheme)
-    script.setAttribute('crossorigin', 'anonymous')
+    script.setAttribute('data-theme', theme)
+    // script.setAttribute("crossorigin", "anonymous");
     script.async = true
 
     const comments = document.getElementById(COMMENTS_ID)
@@ -38,6 +38,7 @@ const Giscus = () => {
     }
   }, [commentsTheme])
 
+  console.log(theme)
   // Reload on theme change
   useEffect(() => {
     const iframe = document.querySelector('iframe.giscus-frame')
