@@ -18,30 +18,14 @@ const Giscus = () => {
   const LoadComments = useCallback(() => {
     setEnabledLoadComments(false)
 
-    const {
-      repo,
-      repositoryId,
-      category,
-      categoryId,
-      mapping,
-      reactions,
-      metadata,
-      inputPosition,
-      lang,
-    } = siteMetadata?.comment?.giscusConfig
+    const { repo, repositoryId, categoryId } = siteMetadata?.comment?.giscusConfig
 
     const script = document.createElement('script')
     script.src = 'https://giscus.app/client.js'
     script.setAttribute('data-repo', repo)
     script.setAttribute('data-repo-id', repositoryId)
-    script.setAttribute('data-category', category)
     script.setAttribute('data-category-id', categoryId)
-    script.setAttribute('data-mapping', mapping)
-    script.setAttribute('data-reactions-enabled', reactions)
-    script.setAttribute('data-emit-metadata', metadata)
-    script.setAttribute('data-input-position', inputPosition)
-    script.setAttribute('data-lang', lang)
-    script.setAttribute('data-theme', commentsTheme)
+    script.setAttribute('data-theme', theme)
     script.setAttribute('crossorigin', 'anonymous')
     script.async = true
 
