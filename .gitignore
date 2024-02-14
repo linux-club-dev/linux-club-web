@@ -7,7 +7,7 @@
 
 # Environment Variables
 .env
-
+.env.local
 # testing
 /coverage
 
