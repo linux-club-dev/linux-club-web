@@ -26,7 +26,7 @@ const Giscus = () => {
     script.setAttribute('data-repo-id', repositoryId)
     script.setAttribute('data-category-id', categoryId)
     script.setAttribute('data-theme', theme)
-    // script.setAttribute("crossorigin", "anonymous");
+    script.setAttribute('crossorigin', 'anonymous')
     script.async = true
 
     const comments = document.getElementById(COMMENTS_ID)
