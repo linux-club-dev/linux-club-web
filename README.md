@@ -8,7 +8,7 @@ A visual representation of the Linux Club Website showcasing its theme or featur
 
 Welcome to the online hub for our vibrant Linux community! This repository houses the source code for our website, a resource for exploring Linux, sharing knowledge, and connecting with fellow enthusiasts.
 
-The Linux Club is a passionate group dedicated to promoting the use and understanding of Linux and open-source software. We welcome everyone, from curious новички (beginners) to seasoned veterans.
+The Linux Club is a passionate group dedicated to promoting the use and understanding of Linux and open-source software. We welcome everyone, from curious beginners to seasoned veterans.
 
 ## Activities and Events
 
