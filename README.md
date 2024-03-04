@@ -25,15 +25,22 @@ The Linux Club is a passionate group dedicated to promoting the use and understa
 
 ## Getting Involved
 
-- Join Our Meetings: [Include schedule and location details]
-- Contact Us: [Club email or social media links]
-- Contribute to the Website: [Link to GitHub repository and contribution guidelines]
+We welcome contributions from the community to help improve the Linux Club Website. If you would like to contribute, please follow these steps:
 
-## Tech Stack
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your changes: `git checkout -b feature/your-feature-name`.
+3. Make your desired changes to the codebase.
+4. Test your changes to ensure they work as expected.
+5. Commit your changes: `git commit -m "Add your commit message here"`.
+6. Push your changes to your forked repository: `git push origin feature/your-feature-name`.
+7. Open a pull request in the main repository, describing your changes and why they should be merged.
+8. Wait for the maintainers to review your pull request and provide feedback.
+9. Make any necessary changes based on the feedback received.
+10. Once your pull request is approved, it will be merged into the main repository.
 
-- Next.js
-- Tailwind CSS
-- [Add any other libraries or frameworks you use]
+Please ensure that your contributions adhere to our [code of conduct](CONTRIBUTING.md) and follow our [contribution guidelines](CONTRIBUTING.md).
+
+Thank you for your interest in contributing to the Linux Club Website!
 
 ## Installation & Usage
 
@@ -56,16 +63,3 @@ The Linux Club is a passionate group dedicated to promoting the use and understa
 Explore the live version of the Linux Club Website: [https://linux-club.vercel.app](https://linux-club.vercel.app)
 
 Let's build an amazing Linux community together!
-
-## Customization Notes
-
-- Replace placeholder text (e.g., meeting schedules, contact info).
-- Adapt the "About Us" section to reflect your club's personality.
-- Adjust the "Resources" based on what your website will provide.
-
-
-Customization Notes:
-
-Replace placeholder text (e.g., meeting schedules, contact info).
-Adapt the "About Us" section to reflect your club's personality.
-Adjust the "Resources" based on what your website will provide.
