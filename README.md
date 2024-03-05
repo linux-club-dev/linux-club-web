@@ -58,9 +58,9 @@ Experience the Linux Club Website: [https://linux-club.vercel.app](https://linux
 Join us in building an exceptional Linux community! 🚀
 
 ### Connect with Us 🌐
-
-- **Twitter:** [Follow us on Twitter](https://twitter.com/i/communities/1607126742795448320) 🐦
-- **Instagram:** [Check out our Instagram](https://www.instagram.com/the_linux.club?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 📸
-- **LinkedIn:** [Connect with us on LinkedIn](https://www.linkedin.com/groups/9274714/) 🔗
+- **Telegram:** [Join Linux Club Telegram Group](https://t.me/Linux_Users_Club)
+- **Twitter:** [Follow us on Twitter](https://twitter.com/i/communities/1607126742795448320)
+- **Instagram:** [Check out our Instagram](https://www.instagram.com/the_linux.club?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 
+- **LinkedIn:** [Connect with us on LinkedIn](https://www.linkedin.com/groups/9274714/)
 
 Thank you for being a part of the Linux Club journey. 🐧
