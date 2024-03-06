@@ -1,10 +1,10 @@
 # Assigning reviewers for different directories
 
-/components/      @akshaykaluse35
-/css/             @raj-raut8502
-/data/            @SAYUK09
-/layouts/         @shubham-kshetre
+/components/      @akshaykaluse35 @shubham-kshetre
+/css/             @raj-raut8502 @shubham-kshetre
+/data/            @SAYUK09 @Sunnyy001 
+/layouts/         @shubham-kshetre @akshaykaluse35
 /lib/             @Sunnyy001 @GetSomeSleepBro
-/pages/           @suyashbhawsar
+/pages/           @suyashbhawsar @SAYUK09
 /public/          @akshaykaluse35 @GetSomeSleepBro
-/scripts/         @raj-raut8502
+/scripts/         @raj-raut8502 @SAYUK09
