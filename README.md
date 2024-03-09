@@ -2,6 +2,10 @@
 
 ![Linux Club Banner](/public/static/images/twitter-card.png)
 
+<!-- Font Awesome Stylesheet -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-5AmDJ2AaaAriT+ctjI0GxqSQXr7ChHeF8MVFp+BUbM+X7e5sozQj3C3VpuFvIpS5zOnn24zi9BQa7EdEG8AaDg==" crossorigin="anonymous" />
+
+
 ## Welcome to Linux Club 🐧
 
 Greetings, Linux Enthusiasts! 🚀
@@ -33,7 +37,6 @@ We invite contributions from the community to enhance the Linux Club Website. If
 8. Await feedback from maintainers and make necessary adjustments.
 9. Once approved, your changes will be merged into the main repository.
 
-Ensure your contributions adhere to our [code of conduct](CONTRIBUTING.md) and follow our [contribution guidelines](CONTRIBUTING.md).
 
 ### Installation & Usage 💻
 
@@ -58,9 +61,12 @@ Experience the Linux Club Website: [https://linux-club.vercel.app](https://linux
 Join us in building an exceptional Linux community! 🚀
 
 ### Connect with Us 🌐
-- **Telegram:** [Join Linux Club Telegram Group](https://t.me/Linux_Users_Club)
-- **Twitter:** [Follow us on Twitter](https://twitter.com/i/communities/1607126742795448320)
-- **Instagram:** [Check out our Instagram](https://www.instagram.com/the_linux.club?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 
-- **LinkedIn:** [Connect with us on LinkedIn](https://www.linkedin.com/groups/9274714/)
+
+  - **Telegram:** [Join Linux Club Telegram Group](https://t.me/Linux_Users_Club) ![Telegram](https://img.shields.io/badge/Join-Telegram-blue?style=flat-square&logo=telegram)
+
+- **Twitter:** [Follow us on Twitter](https://twitter.com/i/communities/1607126742795448320) ![Twitter](https://img.shields.io/twitter/follow/linuxclub?style=social&logo=twitter)
+- **Instagram:** [Check out our Instagram](https://www.instagram.com/the_linux.club?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) ![Instagram](https://img.shields.io/badge/Follow-Instagram-pink?style=flat-square&logo=instagram)
+- **LinkedIn:** [Connect with us on LinkedIn](https://www.linkedin.com/groups/9274714/) ![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)
+
 
 Thank you for being a part of the Linux Club journey. 🐧
