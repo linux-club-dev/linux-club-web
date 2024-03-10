@@ -56,14 +56,14 @@ We invite contributions from the community to enhance the Linux Club Website. If
 
 ### Explore the Live Site 🌐
 
-Experience the Linux Club Website: [https://linux-club.vercel.app](https://linux-club.vercel.app)
+Experience the Linux Club Website: [https://linuxclub.vercel.app](https://linuxclub.vercel.app)
 
 Join us in building an exceptional Linux community! 🚀
 
 ### Connect with Us 🌐
 
   - [![Telegram](https://img.shields.io/badge/Join-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/Linux_Users_Club)
-  -  [![Twitter](https://img.shields.io/twitter/follow/linuxclub?style=social&logo=twitter)](https://twitter.com/linuxclub)
+  -  [![Twitter](https://img.shields.io/twitter/follow/linuxclub?style=social&logo=twitter)]([https://twitter.com/linuxclub](https://twitter.com/i/communities/1607126742795448320))
   -  [![Instagram](https://img.shields.io/badge/Follow-Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/the_linux.club)
   - [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/groups/9274714/)
 
