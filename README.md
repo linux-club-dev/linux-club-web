@@ -66,6 +66,7 @@ Join us in building an exceptional Linux community! 🚀
 
 - **Twitter:** [Follow us on Twitter](https://twitter.com/i/communities/1607126742795448320) ![Twitter](https://img.shields.io/twitter/follow/linuxclub?style=social&logo=twitter)
 - **Instagram:** [Check out our Instagram](https://www.instagram.com/the_linux.club?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) ![Instagram](https://img.shields.io/badge/Follow-Instagram-pink?style=flat-square&logo=instagram)
+  
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/groups/9274714/)
 
 
