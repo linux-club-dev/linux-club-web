@@ -8,6 +8,6 @@ linkedin: https://www.linkedin.com/in/suyashbhawsar
 github: https://github.com/suyashbhawsar
 ---
 
-I'm a Computer Engineering student currently in the third year of the course. I do freelancing in my part-time. Also, I like to read & play sudoku whenever I'm free. Right now, I'm learning Rust & improving my shell scripting skills.
+Tech enthusiast, DevOps learner. Arch Linux w/ KDE. Rust learner. Harmonium player. Sudoku solver. Passionate about music and technology.
 
-My Upwork Profile: https://www.upwork.com/freelancers/~01ead3b0902d523c1f
+My Upwork Profile: https://upwork.com/freelancers/suyashbhawsar

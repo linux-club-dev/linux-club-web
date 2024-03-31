@@ -5,18 +5,21 @@ lastmod: '2023-01-10'
 tags: ['shell', 'linux', 'bash', 'zsh', 'fish', 'ksh', 'tcsh', 'ash', 'dash']
 draft: false
 summary: 'Discover the world of shells through this beginner-friendly blog.'
+images: ['/static/images/exploring-the-shells/exploring-the-shells.jpeg']
 authors: ['suyash']
 ---
+
+![exploring-the-shells-banner](/static/images/exploring-the-shells/exploring-the-shells.jpeg)
 
 Welcome to our exploration of the varied landscape of Linux shells! These powerful interfaces are more than just a user's gateway to interacting with the operating system; they're a testament to Linux's flexibility and diversity. In this guide, we'll delve into the nuances of popular shells like Bash, Zsh, Fish, Ksh, Tcsh, Ash, and Dash, examining their unique features, strengths, and how they fit into the larger Linux ecosystem.
 
 ## Introduction to Linux Shells
 
-Before we dive into the specifics, let's understand what a shell is. In Linux, a shell is a command-line interface (CLI) that allows users to interact with the operating system by typing commands. It's the mediator between the user and the kernel, translating commands into actions that the OS can execute.
+Before we dive into the specifics, let's understand what a shell is. In Linux-based OS, a shell is a command-line interface (CLI) that allows users to interact with the operating system by typing commands. It's the mediator between the user and the kernel, translating commands into actions that the OS can execute.
 
 ## The Bash Shell: The Default Standard
 
-Bash (Bourne Again SHell) is the most common default shell in Linux distributions. Its popularity stems from its balance of functionality, ease of use, and compatibility. Bash is the go-to for many because of its:
+Bash (Bourne-Again SHell) is the most common default shell in Linux distributions. Its popularity stems from its balance of functionality, ease of use, and compatibility. Bash is the go-to for many because of its:
 
 - **Scripting capabilities:** Bash scripts are powerful tools for automating tasks.
 - **Compatibility:** It's the default on many Unix-like systems, ensuring widespread support.
