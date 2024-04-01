@@ -9,8 +9,8 @@
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
-    "prepare": "husky install"
-    "export": "next export",
+    "prepare": "husky install",
+    "export": "next export"
 }
 
   },
