@@ -10,6 +10,10 @@
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky install"
+    "export": "next export",
+  // add other scripts as needed
+}
+
   },
   "dependencies": {
     "@fontsource/inter": "4.5.2",
