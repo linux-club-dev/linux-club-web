@@ -4,7 +4,7 @@ const siteMetadata = {
   description: 'We believe to do real world things like Freelance Projects & Open-source Contributions. So, in this community, all the students are teaching and learning at the same time using Open-source softwares.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://linux-club.vercel.app',
+  siteUrl: 'https://linuxclub.vercel.app',
   siteRepo: 'https://github.com/suyashbhawsar/linux-club',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
@@ -12,9 +12,9 @@ const siteMetadata = {
   email: 'address@yoursite.com',
   github: 'https://github.com/linux-club-dev',
   twitter: 'https://twitter.com/i/communities/1607126742795448320',
-  instagram: 'https://instagram.com/the_linux.club?igshid=YmMyMTA2M2Y=',
+  instagram: 'https://instagram.com/the_linux.club',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/groups/9274714/',
+  linkedin: 'https://www.linkedin.com/groups/9274714',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the

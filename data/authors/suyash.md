@@ -1,7 +1,7 @@
 ---
 name: Suyash Bhawsar
 avatar: /static/images/suyash-avatar.png
-occupation: Freelancer
+occupation: Freelance DevOps/SysAdmin
 email: suyashbhawsar@outlook.com
 twitter: https://twitter.com/suyashsbhawsar
 linkedin: https://www.linkedin.com/in/suyashbhawsar
