@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-5AmDJ2AaaAriT+ctjI0GxqSQXr7ChHeF8MVFp+BUbM+X7e5sozQj3C3VpuFvIpS5zOnn24zi9BQa7EdEG8AaDg==" crossorigin="anonymous" />
 
 
-## Welcome to Linux Club 🐧
+## Welcome to Linux Club 
 
 Greetings, Linux Enthusiasts! 🚀
 
